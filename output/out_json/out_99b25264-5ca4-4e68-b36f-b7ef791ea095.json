@@ -1,0 +1,214 @@
+{
+    "wordlist": [
+        {
+            "word": "哲学",
+            "id": "1",
+            "alternative_forms": [
+                "triết học"
+            ],
+            "pronunciation": [
+                "triết học"
+            ],
+            "definition": [
+                "philosophy"
+            ],
+            "translations": [
+                "哲学 (zhéxué) - Chinese",
+                "哲学 (tetsugaku) - Japanese",
+                "철학 (cheolhak) - Korean",
+                "哲学 (zat-fo) - Cantonese",
+                "哲學 (tiet-hoat) - Taiwanese Hokkien",
+                "哲学 (zeh-hoq) - Shanghainese"
+            ]
+        },
+        {
+            "word": "经济",
+            "id": "2",
+            "alternative_forms": [
+                "kinh tế"
+            ],
+            "pronunciation": [
+                "kinh tế"
+            ],
+            "definition": [
+                "economics"
+            ],
+            "translations": [
+                "经济 (jīngjì) - Chinese",
+                "経済 (keizai) - Japanese",
+                "경제 (gyeongje) - Korean",
+                "經濟 (ging-zai) - Cantonese",
+                "經濟 (king-chè) - Taiwanese Hokkien",
+                "经济 (jing-zhi) - Shanghainese"
+            ]
+        },
+        {
+            "word": "政治",
+            "id": "3",
+            "alternative_forms": [
+                "chính trị"
+            ],
+            "pronunciation": [
+                "chính trị"
+            ],
+            "definition": [
+                "politics"
+            ],
+            "translations": [
+                "政治 (zhèngzhì) - Chinese",
+                "政治 (seiji) - Japanese",
+                "정치 (jeongchi) - Korean",
+                "政治 (zing-zi) - Cantonese",
+                "政治 (chēng-chè) - Taiwanese Hokkien",
+                "政治 (zheng-zhì) - Shanghainese"
+            ]
+        },
+        {
+            "word": "文化",
+            "id": "4",
+            "alternative_forms": [
+                "văn hóa"
+            ],
+            "pronunciation": [
+                "văn hóa"
+            ],
+            "definition": [
+                "culture"
+            ],
+            "translations": [
+                "文化 (wénhuà) - Chinese",
+                "文化 (bunka) - Japanese",
+                "문화 (munhwa) - Korean",
+                "文化 (man-wai) - Cantonese",
+                "文化 (bûn-hòa) - Taiwanese Hokkien",
+                "文化 (wen-hua) - Shanghainese"
+            ]
+        },
+        {
+            "word": "科技",
+            "id": "5",
+            "alternative_forms": [
+                "công nghệ"
+            ],
+            "pronunciation": [
+                "công nghệ"
+            ],
+            "definition": [
+                "technology"
+            ],
+            "translations": [
+                "科技 (kējì) - Chinese",
+                "技術 (gijutsu) - Japanese",
+                "기술 (gisul) - Korean",
+                "科技 (fo-gei) - Cantonese",
+                "科技 (kho-gi) - Taiwanese Hokkien",
+                "科技 (ke-ki) - Shanghainese"
+            ]
+        },
+        {
+            "word": "教育",
+            "id": "6",
+            "alternative_forms": [
+                "giáo dục"
+            ],
+            "pronunciation": [
+                "giáo dục"
+            ],
+            "definition": [
+                "education"
+            ],
+            "translations": [
+                "教育 (jiàoyù) - Chinese",
+                "教育 (kyōiku) - Japanese",
+                "교육 (gyoyuk) - Korean",
+                "教育 (gaau-yuk) - Cantonese",
+                "教育 (kàu-io̍k) - Taiwanese Hokkien",
+                "教育 (jiao-yu) - Shanghainese"
+            ]
+        },
+        {
+            "word": "发展",
+            "id": "7",
+            "alternative_forms": [
+                "phát triển"
+            ],
+            "pronunciation": [
+                "phát triển"
+            ],
+            "definition": [
+                "development"
+            ],
+            "translations": [
+                "发展 (fāzhǎn) - Chinese",
+                "発展 (hatsuten) - Japanese",
+                "발전 (baljeon) - Korean",
+                "發展 (faat-jaan) - Cantonese",
+                "發展 (hoat-chián) - Taiwanese Hokkien",
+                "发展 (fa-zhan) - Shanghainese"
+            ]
+        },
+        {
+            "word": "心理",
+            "id": "8",
+            "alternative_forms": [
+                "tâm lý"
+            ],
+            "pronunciation": [
+                "tâm lý"
+            ],
+            "definition": [
+                "psychology"
+            ],
+            "translations": [
+                "心理 (xīnlǐ) - Chinese",
+                "心理 (shinri) - Japanese",
+                "심리 (simni) - Korean",
+                "心理 (sam-lai) - Cantonese",
+                "心里 (sim-lí) - Taiwanese Hokkien",
+                "心理 (xin-li) - Shanghainese"
+            ]
+        },
+        {
+            "word": "历史",
+            "id": "9",
+            "alternative_forms": [
+                "lịch sử"
+            ],
+            "pronunciation": [
+                "lịch sử"
+            ],
+            "definition": [
+                "history"
+            ],
+            "translations": [
+                "历史 (lìshǐ) - Chinese",
+                "歴史 (rekishi) - Japanese",
+                "역사 (yeoksa) - Korean",
+                "歷史 (lik-si) - Cantonese",
+                "歷史 (li̍k-sú) - Taiwanese Hokkien",
+                "历史 (li-shi) - Shanghainese"
+            ]
+        },
+        {
+            "word": "时尚",
+            "id": "10",
+            "alternative_forms": [
+                "thời trang"
+            ],
+            "pronunciation": [
+                "thời trang"
+            ],
+            "definition": [
+                "fashion"
+            ],
+            "translations": [
+                "时尚 (shíshàng) - Chinese",
+                "ファッション (fasshon) - Japanese",
+                "패션 (paesyeon) - Korean",
+                "時尚 (si-seung) - Cantonese",
+                "時尚 (sî-siong) - Taiwanese Hokkien",
+                "时尚 (si-shang) - Shanghainese"
+            ]
+        }
+    ]
+}

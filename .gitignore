@@ -1,0 +1,7 @@
+.env
+
+old_*
+*_old
+
+__pycache__*
+.vscode*

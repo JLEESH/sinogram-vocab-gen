@@ -1,0 +1,214 @@
+{
+    "wordlist": [
+        {
+            "word": "人",
+            "id": "1",
+            "alternative_forms": [
+                "nhân"
+            ],
+            "pronunciation": [
+                "nhân"
+            ],
+            "definition": [
+                "person"
+            ],
+            "translations": [
+                "人 (rén) - Chinese",
+                "人 (hito) - Japanese",
+                "사람 (salam) - Korean",
+                "人 (jan4) - Cantonese",
+                "人 (lâng) - Taiwanese Hokkien",
+                "人 (ni) - Shanghainese"
+            ]
+        },
+        {
+            "word": "国",
+            "id": "2",
+            "alternative_forms": [
+                "quốc"
+            ],
+            "pronunciation": [
+                "quốc"
+            ],
+            "definition": [
+                "country"
+            ],
+            "translations": [
+                "国 (guó) - Chinese",
+                "国 (kuni) - Japanese",
+                "나라 (nara) - Korean",
+                "國 (gwok3) - Cantonese",
+                "國 (kò͘) - Taiwanese Hokkien",
+                "国 (ku) - Shanghainese"
+            ]
+        },
+        {
+            "word": "时间",
+            "id": "3",
+            "alternative_forms": [
+                "thời gian"
+            ],
+            "pronunciation": [
+                "thời gian"
+            ],
+            "definition": [
+                "time"
+            ],
+            "translations": [
+                "时间 (shíjiān) - Chinese",
+                "時間 (jikan) - Japanese",
+                "시간 (sigan) - Korean",
+                "時間 (si4gaan1) - Cantonese",
+                "時間 (sî-kiann) - Taiwanese Hokkien",
+                "时间 (shi-jian) - Shanghainese"
+            ]
+        },
+        {
+            "word": "学习",
+            "id": "4",
+            "alternative_forms": [
+                "học tập"
+            ],
+            "pronunciation": [
+                "học tập"
+            ],
+            "definition": [
+                "to learn"
+            ],
+            "translations": [
+                "学习 (xuéxí) - Chinese",
+                "学ぶ (manabu) - Japanese",
+                "배우다 (baeuda) - Korean",
+                "學習 (hok6 zaap6) - Cantonese",
+                "學習 (ha̍k-si̍p) - Taiwanese Hokkien",
+                "学习 (xue-xi) - Shanghainese"
+            ]
+        },
+        {
+            "word": "知识",
+            "id": "5",
+            "alternative_forms": [
+                "tri thức"
+            ],
+            "pronunciation": [
+                "tri thức"
+            ],
+            "definition": [
+                "knowledge"
+            ],
+            "translations": [
+                "知识 (zhīshì) - Chinese",
+                "知識 (chishiki) - Japanese",
+                "지식 (jisik) - Korean",
+                "知識 (zi1sik1) - Cantonese",
+                "知識 (ti-khì) - Taiwanese Hokkien",
+                "知识 (zhi-shi) - Shanghainese"
+            ]
+        },
+        {
+            "word": "文化",
+            "id": "6",
+            "alternative_forms": [
+                "văn hóa"
+            ],
+            "pronunciation": [
+                "văn hóa"
+            ],
+            "definition": [
+                "culture"
+            ],
+            "translations": [
+                "文化 (wénhuà) - Chinese",
+                "文化 (bunka) - Japanese",
+                "문화 (munhwa) - Korean",
+                "文化 (man4fa3) - Cantonese",
+                "文化 (bûn-hóa) - Taiwanese Hokkien",
+                "文化 (wen-hua) - Shanghainese"
+            ]
+        },
+        {
+            "word": "经济",
+            "id": "7",
+            "alternative_forms": [
+                "kinh tế"
+            ],
+            "pronunciation": [
+                "kinh tế"
+            ],
+            "definition": [
+                "economy"
+            ],
+            "translations": [
+                "经济 (jīngjì) - Chinese",
+                "経済 (keizei) - Japanese",
+                "경제 (gyeongje) - Korean",
+                "經濟 (ging1zai3) - Cantonese",
+                "經濟 (king-tè) - Taiwanese Hokkien",
+                "经济 (jing-ji) - Shanghainese"
+            ]
+        },
+        {
+            "word": "科学",
+            "id": "8",
+            "alternative_forms": [
+                "khoa học"
+            ],
+            "pronunciation": [
+                "khoa học"
+            ],
+            "definition": [
+                "science"
+            ],
+            "translations": [
+                "科学 (kēxué) - Chinese",
+                "科学 (kagaku) - Japanese",
+                "과학 (gwahak) - Korean",
+                "科學 (fo1hok6) - Cantonese",
+                "科學 (kho-ha̍k) - Taiwanese Hokkien",
+                "科学 (ke-xue) - Shanghainese"
+            ]
+        },
+        {
+            "word": "历史",
+            "id": "9",
+            "alternative_forms": [
+                "lịch sử"
+            ],
+            "pronunciation": [
+                "lịch sử"
+            ],
+            "definition": [
+                "history"
+            ],
+            "translations": [
+                "历史 (lìshǐ) - Chinese",
+                "歴史 (rekishi) - Japanese",
+                "역사 (yeoksa) - Korean",
+                "歷史 (lik6si2) - Cantonese",
+                "歷史 (li̍k-sú) - Taiwanese Hokkien",
+                "历史 (li-shi) - Shanghainese"
+            ]
+        },
+        {
+            "word": "哲学",
+            "id": "10",
+            "alternative_forms": [
+                "triết học"
+            ],
+            "pronunciation": [
+                "triết học"
+            ],
+            "definition": [
+                "philosophy"
+            ],
+            "translations": [
+                "哲学 (zhéxué) - Chinese",
+                "哲学 (tetsugaku) - Japanese",
+                "철학 (cheolhak) - Korean",
+                "哲學 (zit6hok6) - Cantonese",
+                "哲學 (chit-ha̍k) - Taiwanese Hokkien",
+                "哲学 (zhe-xue) - Shanghainese"
+            ]
+        }
+    ]
+}

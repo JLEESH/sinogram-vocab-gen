@@ -1,0 +1,92 @@
+{
+  "wordlist": [
+    {
+      "word": "理論",
+      "id": "LiLun",
+      "alternative_forms": [" lý luận"],
+      "pronunciation": ["lý luận"],
+      "definition": ["theory", "principle", "doctrine"],
+      "translations": ["理論 (lǐlùn) - Chinese", "理論 (riron) - Japanese", "이론 (iron) - Korean"]
+    },
+    {
+      "word": "文化",
+      "id": "WenHua",
+      "alternative_forms": [" văn hóa"],
+      "pronunciation": ["văn hóa"],
+      "definition": ["culture"],
+      "translations": ["文化 (wénhuà) - Chinese", "文化 (bunka) - Japanese", "문화 (munhwa) - Korean"]
+    },
+    {
+      "word": "科學",
+      "id": "KeXue",
+      "alternative_forms": [" khoa học"],
+      "pronunciation": ["khoa học"],
+      "definition": ["science", "scientific study"],
+      "translations": ["科学 (kēxué) - Chinese", "科学 (kagaku) - Japanese", "과학 (gwahak) - Korean"]
+    },
+    {
+      "word": "技術",
+      "id": "JiShu",
+      "alternative_forms": [" kỹ thuật"],
+      "pronunciation": ["kỹ thuật"],
+      "definition": ["technology", "technique", "skill"],
+      "translations": ["技术 (jìshù) - Chinese", "技術 (gijutsu) - Japanese", "기술 (gisul) - Korean"]
+    },
+    {
+      "word": "教育",
+      "id": "JiaoYu",
+      "alternative_forms": [" giáo dục"],
+      "pronunciation": ["giáo dục"],
+      "definition": ["education", "teaching"],
+      "translations": ["教育 (jiàoyù) - Chinese", "教育 (kyōiku) - Japanese", "교육 (gyoyuk) - Korean"]
+    },
+    {
+      "word": "現代",
+      "id": "XianDai",
+      "alternative_forms": [" hiện đại"],
+      "pronunciation": ["hiện đại"],
+      "definition": ["modern", "contemporary"],
+      "translations": ["现代 (xiàndài) - Chinese", "現代 (gendai) - Japanese", "현대 (hyeondae) - Korean"]
+    },
+    {
+      "word": "經濟",
+      "id": "JingJi",
+      "alternative_forms": [" kinh tế"],
+      "pronunciation": ["kinh tế"],
+      "definition": ["economy", "economic"],
+      "translations": ["经济 (jīngjì) - Chinese", "経済 (keizai) - Japanese", "경제 (gyeongje) - Korean"]
+    },
+    {
+      "word": "政治",
+      "id": "ZhengZhi",
+      "alternative_forms": [" chính trị"],
+      "pronunciation": ["chính trị"],
+      "definition": ["politics", "political affairs"],
+      "translations": ["政治 (zhèngzhì) - Chinese", "政治 (seiji) - Japanese", "정치 (jeongchi) - Korean"]
+    },
+    {
+      "word": "心理",
+      "id": "XinLi",
+      "alternative_forms": [" tâm lý"],
+      "pronunciation": ["tâm lý"],
+      "definition": ["psychology", "mental"],
+      "translations": ["心理 (xīnlǐ) - Chinese", "心理 (shinri) - Japanese", "심리 (simni) - Korean"]
+    },
+    {
+      "word": "社會",
+      "id": "SheHui",
+      "alternative_forms": [" xã hội"],
+      "pronunciation": ["xã hội"],
+      "definition": ["society", "social"],
+      "translations": ["社会 (shèhuì) - Chinese", "社会 (shakai) - Japanese", "사회 (sahoe) - Korean"]
+    },
+    {
+      "word": "歷史",
+      "id": "LiShi",
+      "alternative_forms": [" lịch sử"],
+      "pronunciation": ["lịch sử"],
+      "definition": ["history"],
+      "translations": ["历史 (lìshǐ) - Chinese", "歴史 (rekishi) - Japanese", "역사 (yeoksa) - Korean"]
+    }
+  ]
+}

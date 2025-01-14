@@ -1,0 +1,214 @@
+{
+    "wordlist": [
+        {
+            "word": "哲学",
+            "id": "1",
+            "alternative_forms": [
+                "triết học"
+            ],
+            "pronunciation": [
+                "triết học"
+            ],
+            "definition": [
+                "philosophy"
+            ],
+            "translations": [
+                "哲学 (zhéxué) - Chinese",
+                "哲学 (tetsugaku) - Japanese",
+                "철학 (cheolhak) - Korean",
+                "哲學 (zehkwohk) - Cantonese",
+                "哲學 (jiat-ha̍k) - Taiwanese Hokkien",
+                "哲学 (ziqoh) - Shanghainese"
+            ]
+        },
+        {
+            "word": "文化",
+            "id": "2",
+            "alternative_forms": [
+                "văn hóa"
+            ],
+            "pronunciation": [
+                "văn hóa"
+            ],
+            "definition": [
+                "culture"
+            ],
+            "translations": [
+                "文化 (wénhuà) - Chinese",
+                "文化 (bunka) - Japanese",
+                "문화 (munhwa) - Korean",
+                "文化 (wénfa) - Cantonese",
+                "文化 (bûn-hòa) - Taiwanese Hokkien",
+                "文化 (wenhua) - Shanghainese"
+            ]
+        },
+        {
+            "word": "艺术",
+            "id": "3",
+            "alternative_forms": [
+                "nghệ thuật"
+            ],
+            "pronunciation": [
+                "nghệ thuật"
+            ],
+            "definition": [
+                "art"
+            ],
+            "translations": [
+                "艺术 (yìshù) - Chinese",
+                "芸術 (geijutsu) - Japanese",
+                "예술 (yesul) - Korean",
+                "藝術 (ngohsohk) - Cantonese",
+                "藝術 (gē-su̍t) - Taiwanese Hokkien",
+                "艺术 (yishuh) - Shanghainese"
+            ]
+        },
+        {
+            "word": "宗教",
+            "id": "4",
+            "alternative_forms": [
+                "tôn giáo"
+            ],
+            "pronunciation": [
+                "tôn giáo"
+            ],
+            "definition": [
+                "religion"
+            ],
+            "translations": [
+                "宗教 (zōngjiào) - Chinese",
+                "宗教 (shūkyō) - Japanese",
+                "종교 (jonggyo) - Korean",
+                "宗教 (junggaau) - Cantonese",
+                "宗教 (chóng-kàu) - Taiwanese Hokkien",
+                "宗教 (tsongjiao) - Shanghainese"
+            ]
+        },
+        {
+            "word": "法律",
+            "id": "5",
+            "alternative_forms": [
+                "pháp luật"
+            ],
+            "pronunciation": [
+                "pháp luật"
+            ],
+            "definition": [
+                "law"
+            ],
+            "translations": [
+                "法律 (fǎlǜ) - Chinese",
+                "法律 (horitsu) - Japanese",
+                "법률 (beomnyul) - Korean",
+                "法律 (faat-leuhk) - Cantonese",
+                "法律 (ho̍k-lu̍t) - Taiwanese Hokkien",
+                "法律 (falü) - Shanghainese"
+            ]
+        },
+        {
+            "word": "思想",
+            "id": "6",
+            "alternative_forms": [
+                "tư tưởng"
+            ],
+            "pronunciation": [
+                "tư tưởng"
+            ],
+            "definition": [
+                "thought"
+            ],
+            "translations": [
+                "思想 (sīxiǎng) - Chinese",
+                "思想 (shisō) - Japanese",
+                "사상 (sasang) - Korean",
+                "思想 (sīsohng) - Cantonese",
+                "思想 (sū-siūnn) - Taiwanese Hokkien",
+                "思想 (siyang) - Shanghainese"
+            ]
+        },
+        {
+            "word": "民主",
+            "id": "7",
+            "alternative_forms": [
+                "dân chủ"
+            ],
+            "pronunciation": [
+                "dân chủ"
+            ],
+            "definition": [
+                "democracy"
+            ],
+            "translations": [
+                "民主 (mínzhǔ) - Chinese",
+                "民主 (minshu) - Japanese",
+                "민주 (minju) - Korean",
+                "民主 (manjyu) - Cantonese",
+                "民主 (bîn-chú) - Taiwanese Hokkien",
+                "民主 (minzhuh) - Shanghainese"
+            ]
+        },
+        {
+            "word": "医学",
+            "id": "8",
+            "alternative_forms": [
+                "y học"
+            ],
+            "pronunciation": [
+                "y học"
+            ],
+            "definition": [
+                "medicine"
+            ],
+            "translations": [
+                "医学 (yīxué) - Chinese",
+                "医学 (igaku) - Japanese",
+                "의학 (uihak) - Korean",
+                "醫學 (yi-hahk) - Cantonese",
+                "醫學 (i-ha̍k) - Taiwanese Hokkien",
+                "医学 (ihoh) - Shanghainese"
+            ]
+        },
+        {
+            "word": "科技",
+            "id": "9",
+            "alternative_forms": [
+                "công nghệ"
+            ],
+            "pronunciation": [
+                "công nghệ"
+            ],
+            "definition": [
+                "technology"
+            ],
+            "translations": [
+                "科技 (kējì) - Chinese",
+                "技術 (gijutsu) - Japanese",
+                "기술 (gisul) - Korean",
+                "科技 (foh-gih) - Cantonese",
+                "科技 (kè-kì) - Taiwanese Hokkien",
+                "科技 (koh-chi) - Shanghainese"
+            ]
+        },
+        {
+            "word": "教育",
+            "id": "10",
+            "alternative_forms": [
+                "giáo dục"
+            ],
+            "pronunciation": [
+                "giáo dục"
+            ],
+            "definition": [
+                "education"
+            ],
+            "translations": [
+                "教育 (jiàoyù) - Chinese",
+                "教育 (kyōiku) - Japanese",
+                "교육 (gyoyuk) - Korean",
+                "教育 (gaau-yuhk) - Cantonese",
+                "教育 (kàu-ho̍k) - Taiwanese Hokkien",
+                "教育 (jiaoyuh) - Shanghainese"
+            ]
+        }
+    ]
+}

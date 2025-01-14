@@ -1,0 +1,214 @@
+{
+    "wordlist": [
+        {
+            "word": "商業",
+            "id": "1",
+            "alternative_forms": [
+                "thương nghiệp"
+            ],
+            "pronunciation": [
+                "thương nghiệp"
+            ],
+            "definition": [
+                "commerce"
+            ],
+            "translations": [
+                "商業 (shāngyè) - Chinese",
+                "商業 (shōgyō) - Japanese",
+                "상업 (sang-eob) - Korean",
+                "商業 (soeng1 jip6) - Cantonese",
+                "商業 (siong-giap) - Taiwanese Hokkien",
+                "商業 (shang-ye) - Shanghainese"
+            ]
+        },
+        {
+            "word": "外交",
+            "id": "2",
+            "alternative_forms": [
+                "ngoại giao"
+            ],
+            "pronunciation": [
+                "ngoại giao"
+            ],
+            "definition": [
+                "diplomacy"
+            ],
+            "translations": [
+                "外交 (wàijiāo) - Chinese",
+                "外交 (gaikō) - Japanese",
+                "외교 (oegyo) - Korean",
+                "外交 (ngoi6 jiu1) - Cantonese",
+                "外交 (goa-kiāu) - Taiwanese Hokkien",
+                "外交 (wai-jiao) - Shanghainese"
+            ]
+        },
+        {
+            "word": "文化",
+            "id": "3",
+            "alternative_forms": [
+                "văn hóa"
+            ],
+            "pronunciation": [
+                "văn hóa"
+            ],
+            "definition": [
+                "culture"
+            ],
+            "translations": [
+                "文化 (wénhuà) - Chinese",
+                "文化 (bunka) - Japanese",
+                "문화 (munhwa) - Korean",
+                "文化 (man4 faa3) - Cantonese",
+                "文化 (bûn-hóe) - Taiwanese Hokkien",
+                "文化 (wen-hua) - Shanghainese"
+            ]
+        },
+        {
+            "word": "哲學",
+            "id": "4",
+            "alternative_forms": [
+                "triết học"
+            ],
+            "pronunciation": [
+                "triết học"
+            ],
+            "definition": [
+                "philosophy"
+            ],
+            "translations": [
+                "哲學 (zhéxué) - Chinese",
+                "哲学 (tetsugaku) - Japanese",
+                "철학 (cheolhak) - Korean",
+                "哲學 (zit6 hok6) - Cantonese",
+                "哲學 (chia̍t-ha̍k) - Taiwanese Hokkien",
+                "哲学 (zhe-xue) - Shanghainese"
+            ]
+        },
+        {
+            "word": "經濟",
+            "id": "5",
+            "alternative_forms": [
+                "kinh tế"
+            ],
+            "pronunciation": [
+                "kinh tế"
+            ],
+            "definition": [
+                "economy"
+            ],
+            "translations": [
+                "經濟 (jīngjì) - Chinese",
+                "経済 (keizai) - Japanese",
+                "경제 (gyeongje) - Korean",
+                "經濟 (ging1 zai3) - Cantonese",
+                "經濟 (keng-tsè) - Taiwanese Hokkien",
+                "经济 (jing-ji) - Shanghainese"
+            ]
+        },
+        {
+            "word": "計畫",
+            "id": "6",
+            "alternative_forms": [
+                "kế hoạch"
+            ],
+            "pronunciation": [
+                "kế hoạch"
+            ],
+            "definition": [
+                "plan"
+            ],
+            "translations": [
+                "計畫 (jìhuà) - Chinese",
+                "計画 (keikaku) - Japanese",
+                "계획 (gyehoek) - Korean",
+                "計畫 (gei3 waak6) - Cantonese",
+                "計畫 (kè-huāt) - Taiwanese Hokkien",
+                "计划 (ji-hua) - Shanghainese"
+            ]
+        },
+        {
+            "word": "力量",
+            "id": "7",
+            "alternative_forms": [
+                "sức mạnh"
+            ],
+            "pronunciation": [
+                "sức mạnh"
+            ],
+            "definition": [
+                "power"
+            ],
+            "translations": [
+                "力量 (lìliàng) - Chinese",
+                "力 (chikara) - Japanese",
+                "힘 (him) - Korean",
+                "力量 (lik6 leung6) - Cantonese",
+                "力量 (lì-liōng) - Taiwanese Hokkien",
+                "力量 (li-liang) - Shanghainese"
+            ]
+        },
+        {
+            "word": "選擇",
+            "id": "8",
+            "alternative_forms": [
+                "lựa chọn"
+            ],
+            "pronunciation": [
+                "lựa chọn"
+            ],
+            "definition": [
+                "choice"
+            ],
+            "translations": [
+                "選擇 (xuǎnzé) - Chinese",
+                "選択 (sentaku) - Japanese",
+                "선택 (seontae) - Korean",
+                "選擇 (syun2 zaak6) - Cantonese",
+                "選擇 (suán-tsok) - Taiwanese Hokkien",
+                "选择 (xuan-ze) - Shanghainese"
+            ]
+        },
+        {
+            "word": "原因",
+            "id": "9",
+            "alternative_forms": [
+                "nguyên nhân"
+            ],
+            "pronunciation": [
+                "nguyên nhân"
+            ],
+            "definition": [
+                "reason"
+            ],
+            "translations": [
+                "原因 (yuányīn) - Chinese",
+                "原因 (gen-in) - Japanese",
+                "원인 (wonin) - Korean",
+                "原因 (jyun4 jan1) - Cantonese",
+                "原因 (guân-jian) - Taiwanese Hokkien",
+                "原因 (yuan-yin) - Shanghainese"
+            ]
+        },
+        {
+            "word": "信任",
+            "id": "10",
+            "alternative_forms": [
+                "tin tưởng"
+            ],
+            "pronunciation": [
+                "tin tưởng"
+            ],
+            "definition": [
+                "trust"
+            ],
+            "translations": [
+                "信任 (xìnrèn) - Chinese",
+                "信任 (shinne) - Japanese",
+                "신뢰 (sinloi) - Korean",
+                "信任 (seon3 jam6) - Cantonese",
+                "信任 (sìn-lūm) - Taiwanese Hokkien",
+                "信用 (xin-yong) - Shanghainese"
+            ]
+        }
+    ]
+}

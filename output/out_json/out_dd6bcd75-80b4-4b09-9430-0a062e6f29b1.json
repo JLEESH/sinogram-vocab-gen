@@ -1,0 +1,130 @@
+{
+    "wordlist": [
+        {
+            "word": "生物",
+            "id": "1",
+            "alternative_forms": [
+                "sinh vật"
+            ],
+            "pronunciation": [
+                "sinh vật"
+            ],
+            "definition": [
+                "organism"
+            ],
+            "translations": [
+                "生物 (shēngwù) - Chinese",
+                "生物 (seibutsu) - Japanese",
+                "생물 (saengmul) - Korean",
+                "生物 (saang1 mat6) - Cantonese",
+                "生物 (seng-bū) - Taiwanese Hokkien",
+                "生物 (sæŋ-vu) - Shanghainese"
+            ]
+        },
+        {
+            "word": "教育",
+            "id": "2",
+            "alternative_forms": [
+                "giáo dục"
+            ],
+            "pronunciation": [
+                "giáo dục"
+            ],
+            "definition": [
+                "education"
+            ],
+            "translations": [
+                "教育 (jiàoyù) - Chinese",
+                "教育 (kyōiku) - Japanese",
+                "교육 (gyoyuk) - Korean",
+                "教育 (gaau3 juk6) - Cantonese",
+                "教育 (kaioh-giok) - Taiwanese Hokkien",
+                "教育 (kyau-gio) - Shanghainese"
+            ]
+        },
+        {
+            "word": "文化",
+            "id": "3",
+            "alternative_forms": [
+                "văn hóa"
+            ],
+            "pronunciation": [
+                "văn hóa"
+            ],
+            "definition": [
+                "culture"
+            ],
+            "translations": [
+                "文化 (wénhuà) - Chinese",
+                "文化 (bunka) - Japanese",
+                "문화 (munhwa) - Korean",
+                "文化 (man4 faat3) - Cantonese",
+                "文化 (bún-hóa) - Taiwanese Hokkien",
+                "文化 (wen-ho) - Shanghainese"
+            ]
+        },
+        {
+            "word": "物质",
+            "id": "4",
+            "alternative_forms": [
+                "vật chất"
+            ],
+            "pronunciation": [
+                "vật chất"
+            ],
+            "definition": [
+                "matter, material"
+            ],
+            "translations": [
+                "物质 (wùzhì) - Chinese",
+                "物質 (buzai) - Japanese",
+                "물질 (muljil) - Korean",
+                "物質 (mat6 zat1) - Cantonese",
+                "物質 (būtsu-ji̍t) - Taiwanese Hokkien",
+                "物质 (vut-dza) - Shanghainese"
+            ]
+        },
+        {
+            "word": "结构",
+            "id": "5",
+            "alternative_forms": [
+                "cấu trúc"
+            ],
+            "pronunciation": [
+                "cấu trúc"
+            ],
+            "definition": [
+                "structure"
+            ],
+            "translations": [
+                "结构 (jiégòu) - Chinese",
+                "構造 (kōzō) - Japanese",
+                "구조 (gujo) - Korean",
+                "結構 (git3 gau3) - Cantonese",
+                "結構 (kiat-kàu) - Taiwanese Hokkien",
+                "结构 (khie-ko) - Shanghainese"
+            ]
+        },
+        {
+            "word": "战斗",
+            "id": "6",
+            "alternative_forms": [
+                "chiến đấu"
+            ],
+            "pronunciation": [
+                "chiến đấu"
+            ],
+            "definition": [
+                "combat, fight"
+            ],
+            "translations": [
+                "战斗 (zhàndòu) - Chinese",
+                "戦闘 (sentō) - Japanese",
+                "전투 (jeontu) - Korean",
+                "戰鬥 (zin3 dou3) - Cantonese",
+                "戰鬥 (tsàn-tō) - Taiwanese Hokkien",
+                "战斗 (zae-dau) - Shanghainese"
+            ]
+        }
+    ]
+}

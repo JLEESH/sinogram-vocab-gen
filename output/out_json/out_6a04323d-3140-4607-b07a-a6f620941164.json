@@ -1,0 +1,1354 @@
+{
+    "wordlist": [
+        {
+            "sinogram": "lý luận",
+            "id": "1",
+            "pronunciation": [
+                "lý luận"
+            ],
+            "definition": [
+                "reasoning"
+            ],
+            "translations": [
+                "理论 (lǐlùn) - Chinese",
+                "理論 (riron) - Japanese",
+                "이론 (iron) - Korean",
+                "理論 (lei-lun) - Cantonese",
+                "理論 (lí-lūn) - Taiwanese Hokkien",
+                "理论 (li-lin) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "văn hóa",
+            "id": "2",
+            "pronunciation": [
+                "văn hóa"
+            ],
+            "definition": [
+                "culture"
+            ],
+            "translations": [
+                "文化 (wénhuà) - Chinese",
+                "文化 (bunka) - Japanese",
+                "문화 (munhwa) - Korean",
+                "文化 (man-faa) - Cantonese",
+                "文化 (bûn-hòa) - Taiwanese Hokkien",
+                "文化 (ven-hu) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "khoa học",
+            "id": "3",
+            "pronunciation": [
+                "khoa học"
+            ],
+            "definition": [
+                "science"
+            ],
+            "translations": [
+                "科学 (kēxué) - Chinese",
+                "科学 (kagaku) - Japanese",
+                "과학 (gwahak) - Korean",
+                "科學 (fo1 hok6) - Cantonese",
+                "科學 (kho-ha̍k) - Taiwanese Hokkien",
+                "科學 (khue-ha) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "kỹ thuật",
+            "id": "4",
+            "pronunciation": [
+                "kỹ thuật"
+            ],
+            "definition": [
+                "technology"
+            ],
+            "translations": [
+                "技术 (jìshù) - Chinese",
+                "技術 (gijutsu) - Japanese",
+                "기술 (gisul) - Korean",
+                "技術 (gei-seut) - Cantonese",
+                "技術 (kī-su̍t) - Taiwanese Hokkien",
+                "技術 (ji-su) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "giáo dục",
+            "id": "5",
+            "pronunciation": [
+                "giáo dục"
+            ],
+            "definition": [
+                "education"
+            ],
+            "translations": [
+                "教育 (jiàoyù) - Chinese",
+                "教育 (kyōiku) - Japanese",
+                "교육 (gyoyuk) - Korean",
+                "教育 (gaau-yuk) - Cantonese",
+                "教育 (kàu-io̍k) - Taiwanese Hokkien",
+                "教育 (jiao-yu) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "hiện đại",
+            "id": "6",
+            "pronunciation": [
+                "hiện đại"
+            ],
+            "definition": [
+                "modern"
+            ],
+            "translations": [
+                "现代 (xiàndài) - Chinese",
+                "現代 (gendai) - Japanese",
+                "현대 (hyeondae) - Korean",
+                "現代 (yin-dai) - Cantonese",
+                "現代 (hiān-dāi) - Taiwanese Hokkien",
+                "现代 (xien-de) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "kinh tế",
+            "id": "7",
+            "pronunciation": [
+                "kinh tế"
+            ],
+            "definition": [
+                "economy"
+            ],
+            "translations": [
+                "经济 (jīngjì) - Chinese",
+                "経済 (keizai) - Japanese",
+                "경제 (gyeongje) - Korean",
+                "經濟 (ging-jai) - Cantonese",
+                "經濟 (king-chè) - Taiwanese Hokkien",
+                "经济 (jin-ji) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "chính trị",
+            "id": "8",
+            "pronunciation": [
+                "chính trị"
+            ],
+            "definition": [
+                "politics"
+            ],
+            "translations": [
+                "政治 (zhèngzhì) - Chinese",
+                "政治 (seiji) - Japanese",
+                "정치 (jeongchi) - Korean",
+                "政治 (zing-chi) - Cantonese",
+                "政治 (cheng-tī) - Taiwanese Hokkien",
+                "政治 (jin-ji) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tâm lý",
+            "id": "9",
+            "pronunciation": [
+                "tâm lý"
+            ],
+            "definition": [
+                "psychology"
+            ],
+            "translations": [
+                "心理 (xīnlǐ) - Chinese",
+                "心理 (shinri) - Japanese",
+                "심리 (simni) - Korean",
+                "心理 (sam-lei) - Cantonese",
+                "心理 (sim-li) - Taiwanese Hokkien",
+                "心理 (xin-li) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "xã hội",
+            "id": "10",
+            "pronunciation": [
+                "xã hội"
+            ],
+            "definition": [
+                "society"
+            ],
+            "translations": [
+                "社会 (shèhuì) - Chinese",
+                "社会 (shakai) - Japanese",
+                "사회 (sahoe) - Korean",
+                "社會 (se-hui) - Cantonese",
+                "社會 (siā-hoē) - Taiwanese Hokkien",
+                "社会 (xia-we) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "lịch sử",
+            "id": "11",
+            "pronunciation": [
+                "lịch sử"
+            ],
+            "definition": [
+                "history"
+            ],
+            "translations": [
+                "历史 (lìshǐ) - Chinese",
+                "歴史 (rekishi) - Japanese",
+                "역사 (yeoksa) - Korean",
+                "歷史 (lik-si) - Cantonese",
+                "歷史 (līk-sú) - Taiwanese Hokkien",
+                "历史 (lih-si) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "đại học",
+            "id": "12",
+            "pronunciation": [
+                "đại học"
+            ],
+            "definition": [
+                "university"
+            ],
+            "translations": [
+                "大学 (dàxué) - Chinese",
+                "大学 (daigaku) - Japanese",
+                "대학 (daehak) - Korean",
+                "大學 (daai-hok) - Cantonese",
+                "大學 (tāi-hak) - Taiwanese Hokkien",
+                "大学 (de-ha) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nghiên cứu",
+            "id": "13",
+            "pronunciation": [
+                "nghiên cứu"
+            ],
+            "definition": [
+                "research"
+            ],
+            "translations": [
+                "研究 (yánjiū) - Chinese",
+                "研究 (kenkyū) - Japanese",
+                "연구 (yeongu) - Korean",
+                "研究 (yin-gau) - Cantonese",
+                "研究 (giàn-kiù) - Taiwanese Hokkien",
+                "研究 (yi-jiu) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "phát triển",
+            "id": "14",
+            "pronunciation": [
+                "phát triển"
+            ],
+            "definition": [
+                "development"
+            ],
+            "translations": [
+                "发展 (fāzhǎn) - Chinese",
+                "発展 (hatsuten) - Japanese",
+                "발전 (baljeon) - Korean",
+                "發展 (faat-zin) - Cantonese",
+                "發展 (hoat-chún) - Taiwanese Hokkien",
+                "发展 (fet-tzen) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tư duy",
+            "id": "15",
+            "pronunciation": [
+                "tư duy"
+            ],
+            "definition": [
+                "thought"
+            ],
+            "translations": [
+                "思维 (sīwéi) - Chinese",
+                "思考 (shikō) - Japanese",
+                "사고 (sago) - Korean",
+                "思考 (si-go) - Cantonese",
+                "思考 (su-kào) - Taiwanese Hokkien",
+                "思考 (si-khao) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "thực hành",
+            "id": "16",
+            "pronunciation": [
+                "thực hành"
+            ],
+            "definition": [
+                "practice"
+            ],
+            "translations": [
+                "实践 (shíjiàn) - Chinese",
+                "実践 (jissen) - Japanese",
+                "실천 (silcheon) - Korean",
+                "實踐 (sat-chin) - Cantonese",
+                "實踐 (si̍t-chhèn) - Taiwanese Hokkien",
+                "实践 (zih-jin) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nguyên tắc",
+            "id": "17",
+            "pronunciation": [
+                "nguyên tắc"
+            ],
+            "definition": [
+                "principle"
+            ],
+            "translations": [
+                "原则 (yuánzé) - Chinese",
+                "原則 (gensoku) - Japanese",
+                "원칙 (wonchik) - Korean",
+                "原則 (yün-zak) - Cantonese",
+                "原則 (guân-chek) - Taiwanese Hokkien",
+                "原则 (yi-ze) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "chiến lược",
+            "id": "18",
+            "pronunciation": [
+                "chiến lược"
+            ],
+            "definition": [
+                "strategy"
+            ],
+            "translations": [
+                "战略 (zhànlüè) - Chinese",
+                "戦略 (senryaku) - Japanese",
+                "전략 (jeonlyak) - Korean",
+                "戰略 (zin-leuk) - Cantonese",
+                "戰略 (chiàn-lu̍h) - Taiwanese Hokkien",
+                "战略 (cen-lue) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tổng hợp",
+            "id": "19",
+            "pronunciation": [
+                "tổng hợp"
+            ],
+            "definition": [
+                "synthesis"
+            ],
+            "translations": [
+                "综合 (zònghé) - Chinese",
+                "総合 (sōgō) - Japanese",
+                "종합 (jonghap) - Korean",
+                "綜合 (zung hap) - Cantonese",
+                "總合 (chóng-ha̍p) - Taiwanese Hokkien",
+                "综合 (zong-he) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "chuyên môn",
+            "id": "20",
+            "pronunciation": [
+                "chuyên môn"
+            ],
+            "definition": [
+                "specialization"
+            ],
+            "translations": [
+                "专门 (zhuānmén) - Chinese",
+                "専門 (senmon) - Japanese",
+                "전문 (jeonmun) - Korean",
+                "專門 (zyun-mun) - Cantonese",
+                "專門 (choan-bûn) - Taiwanese Hokkien",
+                "专门 (zvan-min) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "diễn giả",
+            "id": "21",
+            "pronunciation": [
+                "diễn giả"
+            ],
+            "definition": [
+                "speaker"
+            ],
+            "translations": [
+                "演讲者 (yǎnjiǎngzhě) - Chinese",
+                "スピーカー (supīkā) - Japanese",
+                "스피커 (seupikeo) - Korean",
+                "演講者 (yin-gong-za) - Cantonese",
+                "演講者 (ián-kiáh-chiá) - Taiwanese Hokkien",
+                "演讲者 (yan-kua-ze) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nghệ thuật",
+            "id": "22",
+            "pronunciation": [
+                "nghệ thuật"
+            ],
+            "definition": [
+                "art"
+            ],
+            "translations": [
+                "艺术 (yìshù) - Chinese",
+                "芸術 (geijutsu) - Japanese",
+                "예술 (yesul) - Korean",
+                "藝術 (ngai-seot) - Cantonese",
+                "藝術 (gē-cho̍k) - Taiwanese Hokkien",
+                "艺术 (yi-se) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nguyên liệu",
+            "id": "23",
+            "pronunciation": [
+                "nguyên liệu"
+            ],
+            "definition": [
+                "material"
+            ],
+            "translations": [
+                "原料 (yuánliào) - Chinese",
+                "原料 (genryō) - Japanese",
+                "원료 (wolryo) - Korean",
+                "原料 (yün-liu) - Cantonese",
+                "原料 (guân-liāu) - Taiwanese Hokkien",
+                "原料 (yi-lieu) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "hệ thống",
+            "id": "24",
+            "pronunciation": [
+                "hệ thống"
+            ],
+            "definition": [
+                "system"
+            ],
+            "translations": [
+                "系统 (xìtǒng) - Chinese",
+                "システム (shisutemu) - Japanese",
+                "시스템 (siseutem) - Korean",
+                "系統 (hai-tung) - Cantonese",
+                "系統 (hē-thóng) - Taiwanese Hokkien",
+                "系统 (hi-don) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "công nghệ",
+            "id": "25",
+            "pronunciation": [
+                "công nghệ"
+            ],
+            "definition": [
+                "technology"
+            ],
+            "translations": [
+                "科技 (kējì) - Chinese",
+                "テクノロジー (tekunorojī) - Japanese",
+                "기술 (gisul) - Korean",
+                "科技 (fo-gei) - Cantonese",
+                "科技 (kho-ki) - Taiwanese Hokkien",
+                "科技 (khue-ji) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tiềm năng",
+            "id": "26",
+            "pronunciation": [
+                "tiềm năng"
+            ],
+            "definition": [
+                "potential"
+            ],
+            "translations": [
+                "潜力 (qiánlì) - Chinese",
+                "潜力 (senriki) - Japanese",
+                "잠재력 (jamjaeryeok) - Korean",
+                "潛力 (chim-lik) - Cantonese",
+                "潛力 (tshiâm-li̍k) - Taiwanese Hokkien",
+                "潜力 (zi-li) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "đổi mới",
+            "id": "27",
+            "pronunciation": [
+                "đổi mới"
+            ],
+            "definition": [
+                "innovation"
+            ],
+            "translations": [
+                "创新 (chuàngxīn) - Chinese",
+                "イノベーション (inobēshon) - Japanese",
+                "혁신 (hyeogsin) - Korean",
+                "創新 (cong-yan) - Cantonese",
+                "創新 (chòng-sin) - Taiwanese Hokkien",
+                "创新 (tsong-xin) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "khả năng",
+            "id": "28",
+            "pronunciation": [
+                "khả năng"
+            ],
+            "definition": [
+                "ability"
+            ],
+            "translations": [
+                "能力 (nénglì) - Chinese",
+                "能力 (nōryoku) - Japanese",
+                "능력 (neungnyeok) - Korean",
+                "能力 (nang-lik) - Cantonese",
+                "能力 (lêng-le̍k) - Taiwanese Hokkien",
+                "能力 (nin-li) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tính toán",
+            "id": "29",
+            "pronunciation": [
+                "tính toán"
+            ],
+            "definition": [
+                "calculation"
+            ],
+            "translations": [
+                "计算 (jìsuàn) - Chinese",
+                "計算 (keisan) - Japanese",
+                "계산 (gyesan) - Korean",
+                "計算 (kei-syun) - Cantonese",
+                "計算 (kè-sǹg) - Taiwanese Hokkien",
+                "计算 (ji-san) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "quy hoạch",
+            "id": "30",
+            "pronunciation": [
+                "quy hoạch"
+            ],
+            "definition": [
+                "planning"
+            ],
+            "translations": [
+                "规划 (guīhuà) - Chinese",
+                "計画 (keikaku) - Japanese",
+                "계획 (gyehoe) - Korean",
+                "規劃 (kwai-waak) - Cantonese",
+                "規劃 (kui-hoat) - Taiwanese Hokkien",
+                "规划 (kue-va) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "phát huy",
+            "id": "31",
+            "pronunciation": [
+                "phát huy"
+            ],
+            "definition": [
+                "to promote"
+            ],
+            "translations": [
+                "发挥 (fāhuī) - Chinese",
+                "発揮 (hatsuki) - Japanese",
+                "발휘 (balhwi) - Korean",
+                "發揮 (faat-fai) - Cantonese",
+                "發揮 (hoat-hui) - Taiwanese Hokkien",
+                "发挥 (fet-fi) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "triết học",
+            "id": "32",
+            "pronunciation": [
+                "triết học"
+            ],
+            "definition": [
+                "philosophy"
+            ],
+            "translations": [
+                "哲学 (zhéxué) - Chinese",
+                "哲学 (tetsugaku) - Japanese",
+                "철학 (cheolhak) - Korean",
+                "哲學 (zit-hok) - Cantonese",
+                "哲學 (siat-ha̍k) - Taiwanese Hokkien",
+                "哲学 (zej-ha) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nhân",
+            "id": "33",
+            "pronunciation": [
+                "nhân"
+            ],
+            "definition": [
+                "human"
+            ],
+            "translations": [
+                "人 (rén) - Chinese",
+                "人 (jin) - Japanese",
+                "인간 (ingan) - Korean",
+                "人 (jan) - Cantonese",
+                "人 (jîn) - Taiwanese Hokkien",
+                "人 (zhen) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "quốc",
+            "id": "34",
+            "pronunciation": [
+                "quốc"
+            ],
+            "definition": [
+                "nation"
+            ],
+            "translations": [
+                "国 (guó) - Chinese",
+                "国 (kuni) - Japanese",
+                "국가 (gukga) - Korean",
+                "國 (gwok) - Cantonese",
+                "國 (ko̍k) - Taiwanese Hokkien",
+                "国 (kue) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "thời gian",
+            "id": "35",
+            "pronunciation": [
+                "thời gian"
+            ],
+            "definition": [
+                "time"
+            ],
+            "translations": [
+                "时间 (shíjiān) - Chinese",
+                "時間 (jikan) - Japanese",
+                "시간 (sigan) - Korean",
+                "時間 (si-gaan) - Cantonese",
+                "時間 (sî-kan) - Taiwanese Hokkien",
+                "时间 (zih-ka) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "học tập",
+            "id": "36",
+            "pronunciation": [
+                "học tập"
+            ],
+            "definition": [
+                "study"
+            ],
+            "translations": [
+                "学习 (xuéxí) - Chinese",
+                "学習 (gakushū) - Japanese",
+                "학습 (hagseup) - Korean",
+                "學習 (hok-jip) - Cantonese",
+                "學習 (ha̍k-sio̍p) - Taiwanese Hokkien",
+                "学习 (ho-se) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tri thức",
+            "id": "37",
+            "pronunciation": [
+                "tri thức"
+            ],
+            "definition": [
+                "knowledge"
+            ],
+            "translations": [
+                "知识 (zhīshì) - Chinese",
+                "知識 (chishiki) - Japanese",
+                "지식 (jisik) - Korean",
+                "知識 (zi-sik) - Cantonese",
+                "知識 (ti-sik) - Taiwanese Hokkien",
+                "知识 (zi-se) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "suy nghĩ",
+            "id": "38",
+            "pronunciation": [
+                "suy nghĩ"
+            ],
+            "definition": [
+                "thinking"
+            ],
+            "translations": [
+                "思考 (sīkāo) - Chinese",
+                "思考 (shikō) - Japanese",
+                "생각 (saenggak) - Korean",
+                "思考 (si-go) - Cantonese",
+                "思考 (su-kào) - Taiwanese Hokkien",
+                "思考 (si-khao) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "lôgic",
+            "id": "39",
+            "pronunciation": [
+                "lôgic"
+            ],
+            "definition": [
+                "logic"
+            ],
+            "translations": [
+                "逻辑 (luójí) - Chinese",
+                "論理 (ronri) - Japanese",
+                "논리 (nonli) - Korean",
+                "邏輯 (lo-kap) - Cantonese",
+                "邏輯 (loo-tiap) - Taiwanese Hokkien",
+                "逻辑 (lo-tsi) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "quản lý",
+            "id": "40",
+            "pronunciation": [
+                "quản lý"
+            ],
+            "definition": [
+                "management"
+            ],
+            "translations": [
+                "管理 (guǎnlǐ) - Chinese",
+                "管理 (kanri) - Japanese",
+                "관리 (gwalli) - Korean",
+                "管理 (gun-lai) - Cantonese",
+                "管理 (koán-lí) - Taiwanese Hokkien",
+                "管理 (kuen-li) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "thông tin",
+            "id": "41",
+            "pronunciation": [
+                "thông tin"
+            ],
+            "definition": [
+                "information"
+            ],
+            "translations": [
+                "信息 (xìnxī) - Chinese",
+                "情報 (jōhō) - Japanese",
+                "정보 (jeongbo) - Korean",
+                "信息 (sun-si) - Cantonese",
+                "信息 (sin-sek) - Taiwanese Hokkien",
+                "信息 (sin-si) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "mối quan hệ",
+            "id": "42",
+            "pronunciation": [
+                "mối quan hệ"
+            ],
+            "definition": [
+                "relationship"
+            ],
+            "translations": [
+                "关系 (guānxì) - Chinese",
+                "関係 (kankei) - Japanese",
+                "관계 (gwangye) - Korean",
+                "關係 (guan-hei) - Cantonese",
+                "關係 (kuan-hē) - Taiwanese Hokkien",
+                "关系 (gui-xi) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "thực hành",
+            "id": "43",
+            "pronunciation": [
+                "thực hành"
+            ],
+            "definition": [
+                "practice"
+            ],
+            "translations": [
+                "实践 (shíjiàn) - Chinese",
+                "実践 (jissen) - Japanese",
+                "실천 (silcheon) - Korean",
+                "實踐 (sat-chin) - Cantonese",
+                "實踐 (si̍t-chhèn) - Taiwanese Hokkien",
+                "实践 (zih-jin) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "thương nghiệp",
+            "id": "44",
+            "pronunciation": [
+                "thương nghiệp"
+            ],
+            "definition": [
+                "commerce"
+            ],
+            "translations": [
+                "商业 (shāngyè) - Chinese",
+                "商業 (shōgyō) - Japanese",
+                "상업 (sangeop) - Korean",
+                "商業 (soeng-jip) - Cantonese",
+                "商業 (siô-siā̍p) - Taiwanese Hokkien",
+                "商业 (zán-el) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "ngoại giao",
+            "id": "45",
+            "pronunciation": [
+                "ngoại giao"
+            ],
+            "definition": [
+                "diplomacy"
+            ],
+            "translations": [
+                "外交 (wàijiāo) - Chinese",
+                "外交 (gaikō) - Japanese",
+                "외교 (oegyo) - Korean",
+                "外交 (ngoi-gaau) - Cantonese",
+                "外交 (goāi-kau) - Taiwanese Hokkien",
+                "外交 (gu-aj) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "kế hoạch",
+            "id": "46",
+            "pronunciation": [
+                "kế hoạch"
+            ],
+            "definition": [
+                "plan"
+            ],
+            "translations": [
+                "计划 (jìhuà) - Chinese",
+                "計画 (keikaku) - Japanese",
+                "계획 (gyehoeg) - Korean",
+                "計劃 (gai-waak) - Cantonese",
+                "計劃 (kè-go̍k) - Taiwanese Hokkien",
+                "计划 (ji-ha) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "sức mạnh",
+            "id": "47",
+            "pronunciation": [
+                "sức mạnh"
+            ],
+            "definition": [
+                "power"
+            ],
+            "translations": [
+                "力量 (lìliàng) - Chinese",
+                "力 (ryoku) - Japanese",
+                "힘 (him) - Korean",
+                "力量 (lik-leung) - Cantonese",
+                "力擘 (lik-pê) - Taiwanese Hokkien",
+                "力 (lek) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "lựa chọn",
+            "id": "48",
+            "pronunciation": [
+                "lựa chọn"
+            ],
+            "definition": [
+                "choice"
+            ],
+            "translations": [
+                "选择 (xuǎnzé) - Chinese",
+                "選択 (sentaku) - Japanese",
+                "선택 (seontaeg) - Korean",
+                "選擇 (syun-zaak) - Cantonese",
+                "選擇 (sǹg-chek) - Taiwanese Hokkien",
+                "选择 (xin-ze) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nguyên nhân",
+            "id": "49",
+            "pronunciation": [
+                "nguyên nhân"
+            ],
+            "definition": [
+                "cause"
+            ],
+            "translations": [
+                "原因 (yuányīn) - Chinese",
+                "原因 (gen'in) - Japanese",
+                "원인 (wonin) - Korean",
+                "原因 (jün-jan) - Cantonese",
+                "原因 (guân-in) - Taiwanese Hokkien",
+                "原因 (yi-in) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tin tưởng",
+            "id": "50",
+            "pronunciation": [
+                "tin tưởng"
+            ],
+            "definition": [
+                "to believe"
+            ],
+            "translations": [
+                "相信 (xiāngxìn) - Chinese",
+                "信じる (shinjiru) - Japanese",
+                "믿다 (mit-da) - Korean",
+                "相信 (seung-seun) - Cantonese",
+                "相信 (sin-sìng) - Taiwanese Hokkien",
+                "相信 (sin-xin) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "bảo vệ",
+            "id": "51",
+            "pronunciation": [
+                "bảo vệ"
+            ],
+            "definition": [
+                "to protect"
+            ],
+            "translations": [
+                "保护 (bǎohù) - Chinese",
+                "保護 (hogo) - Japanese",
+                "보호하다 (bohohada) - Korean",
+                "保護 (bou-woo) - Cantonese",
+                "保護 (pó-gō) - Taiwanese Hokkien",
+                "保护 (bau-hu) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "phục hồi",
+            "id": "52",
+            "pronunciation": [
+                "phục hồi"
+            ],
+            "definition": [
+                "to recover"
+            ],
+            "translations": [
+                "恢复 (huīfù) - Chinese",
+                "回復 (kaifuku) - Japanese",
+                "회복하다 (hoebokhada) - Korean",
+                "恢復 (fui-fuk) - Cantonese",
+                "恢復 (hoe-ho̍k) - Taiwanese Hokkien",
+                "恢复 (hui-huek) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tưởng tượng",
+            "id": "53",
+            "pronunciation": [
+                "tưởng tượng"
+            ],
+            "definition": [
+                "to imagine"
+            ],
+            "translations": [
+                "想象 (xiǎngxiàng) - Chinese",
+                "想像 (sōzō) - Japanese",
+                "상상하다 (sangsanghada) - Korean",
+                "想像 (soeng-zoeng) - Cantonese",
+                "想像 (siánn-siūnn) - Taiwanese Hokkien",
+                "想像 (xiaon-zio) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tích cực",
+            "id": "54",
+            "pronunciation": [
+                "tích cực"
+            ],
+            "definition": [
+                "positive"
+            ],
+            "translations": [
+                "积极 (jījí) - Chinese",
+                "積極 (sekkyoku) - Japanese",
+                "적극적이다 (jeokgeugjeok-ida) - Korean",
+                "積極 (zik-gik) - Cantonese",
+                "積極 (chek-kik) - Taiwanese Hokkien",
+                "积极 (ze-ge) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "kinh nghiệm",
+            "id": "55",
+            "pronunciation": [
+                "kinh nghiệm"
+            ],
+            "definition": [
+                "experience"
+            ],
+            "translations": [
+                "经验 (jīngyàn) - Chinese",
+                "経験 (keiken) - Japanese",
+                "경험 (gyeongheom) - Korean",
+                "經驗 (ging-yim) - Cantonese",
+                "經驗 (kyong-iām) - Taiwanese Hokkien",
+                "经验 (jin-yan) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nâng cao",
+            "id": "56",
+            "pronunciation": [
+                "nâng cao"
+            ],
+            "definition": [
+                "to enhance"
+            ],
+            "translations": [
+                "提高 (tígāo) - Chinese",
+                "向上 (kōjō) - Japanese",
+                "향상시키다 (hyangsangsikida) - Korean",
+                "提升 (tai-sing) - Cantonese",
+                "提升 (thî-sing) - Taiwanese Hokkien",
+                "提高 (ti-ko) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nhấn mạnh",
+            "id": "57",
+            "pronunciation": [
+                "nhấn mạnh"
+            ],
+            "definition": [
+                "to emphasize"
+            ],
+            "translations": [
+                "强调 (qiángdiào) - Chinese",
+                "強調 (kyōchō) - Japanese",
+                "강조하다 (gangjohada) - Korean",
+                "強調 (keung-diu) - Cantonese",
+                "強調 (kiông-tiàu) - Taiwanese Hokkien",
+                "强调 (tserng-tia) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "hòa bình",
+            "id": "58",
+            "pronunciation": [
+                "hòa bình"
+            ],
+            "definition": [
+                "peace"
+            ],
+            "translations": [
+                "和平 (hépíng) - Chinese",
+                "平和 (heiwa) - Japanese",
+                "평화 (pyeonghwa) - Korean",
+                "和平 (woo-ping) - Cantonese",
+                "和平 (hô-pêng) - Taiwanese Hokkien",
+                "和平 (ho-pen) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tự do",
+            "id": "59",
+            "pronunciation": [
+                "tự do"
+            ],
+            "definition": [
+                "freedom"
+            ],
+            "translations": [
+                "自由 (zìyóu) - Chinese",
+                "自由 (jiyū) - Japanese",
+                "자유 (jayu) - Korean",
+                "自由 (zi-jau) - Cantonese",
+                "自由 (chū-iû) - Taiwanese Hokkien",
+                "自由 (tzi-yiu) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "hành động",
+            "id": "60",
+            "pronunciation": [
+                "hành động"
+            ],
+            "definition": [
+                "action"
+            ],
+            "translations": [
+                "行动 (xíngdòng) - Chinese",
+                "行動 (kōdō) - Japanese",
+                "행동 (haengdong) - Korean",
+                "行動 (hang-dung) - Cantonese",
+                "行動 (hêng-tōng) - Taiwanese Hokkien",
+                "行动 (xin-don) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "nhân quyền",
+            "id": "61",
+            "pronunciation": [
+                "nhân quyền"
+            ],
+            "definition": [
+                "human rights"
+            ],
+            "translations": [
+                "人权 (rénquán) - Chinese",
+                "人権 (jinken) - Japanese",
+                "인권 (ingwon) - Korean",
+                "人權 (jan-kun) - Cantonese",
+                "人權 (jîn-kûn) - Taiwanese Hokkien",
+                "人权 (zhen-kyi) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "kỹ thuật số",
+            "id": "62",
+            "pronunciation": [
+                "kỹ thuật số"
+            ],
+            "definition": [
+                "digital technology"
+            ],
+            "translations": [
+                "数字技术 (shùzì jìshù) - Chinese",
+                "デジタル技術 (dejitarugijutsu) - Japanese",
+                "디지털 기술 (dijitel gisul) - Korean",
+                "數碼技術 (sou-maan gei-seut) - Cantonese",
+                "數碼技術 (sòa-bē-ki-su̍t) - Taiwanese Hokkien",
+                "数字技术 (zui-zi-ji-se) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "năng lượng",
+            "id": "63",
+            "pronunciation": [
+                "năng lượng"
+            ],
+            "definition": [
+                "energy"
+            ],
+            "translations": [
+                "能源 (néngyuán) - Chinese",
+                "エネルギー (enerugī) - Japanese",
+                "에너지 (eneoji) - Korean",
+                "能源 (nang-yuen) - Cantonese",
+                "能源 (nô͘-iân/ - Taiwanese Hokkien",
+                "能源 (nin-yie) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "môi trường",
+            "id": "64",
+            "pronunciation": [
+                "môi trường"
+            ],
+            "definition": [
+                "environment"
+            ],
+            "translations": [
+                "环境 (huánjìng) - Chinese",
+                "環境 (kankyō) - Japanese",
+                "환경 (hwangyeong) - Korean",
+                "環境 (wan-geng) - Cantonese",
+                "環境 (huân-kíng) - Taiwanese Hokkien",
+                "环境 (hoo-jin) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "khí hậu",
+            "id": "65",
+            "pronunciation": [
+                "khí hậu"
+            ],
+            "definition": [
+                "climate"
+            ],
+            "translations": [
+                "气候 (qíhòu) - Chinese",
+                "気候 (kikō) - Japanese",
+                "기후 (gihu) - Korean",
+                "氣候 (hei-hou) - Cantonese",
+                "氣候 (khì-hāu) - Taiwanese Hokkien",
+                "气候 (qii-ho) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "giải pháp",
+            "id": "66",
+            "pronunciation": [
+                "giải pháp"
+            ],
+            "definition": [
+                "solution"
+            ],
+            "translations": [
+                "解决方案 (jiějué fāng'àn) - Chinese",
+                "解決策 (kaiketsusaku) - Japanese",
+                "해결책 (haegyeolchaeg) - Korean",
+                "解決方案 (gaai-kwoet fong-on) - Cantonese",
+                "解決方案 (kái-koet hong-àn) - Taiwanese Hokkien",
+                "解决方案 (ji-jiue-feng-ang) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "chính sách",
+            "id": "67",
+            "pronunciation": [
+                "chính sách"
+            ],
+            "definition": [
+                "policy"
+            ],
+            "translations": [
+                "政策 (zhèngcè) - Chinese",
+                "政策 (seisaku) - Japanese",
+                "정책 (jeongchaeg) - Korean",
+                "政策 (ching-chaak) - Cantonese",
+                "政策 (chián-chhak) - Taiwanese Hokkien",
+                "政策 (jin-chak) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "bất động sản",
+            "id": "68",
+            "pronunciation": [
+                "bất động sản"
+            ],
+            "definition": [
+                "real estate"
+            ],
+            "translations": [
+                "房地产 (fángdìchǎn) - Chinese",
+                "不動産 (fudōsan) - Japanese",
+                "부동산 (budongsan) - Korean",
+                "房地產 (fong-dei-caan) - Cantonese",
+                "房地產 (pang-tē-chhān) - Taiwanese Hokkien",
+                "房地产 (vang-di-tsha) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "đầu tư",
+            "id": "69",
+            "pronunciation": [
+                "đầu tư"
+            ],
+            "definition": [
+                "investment"
+            ],
+            "translations": [
+                "投资 (tóuzī) - Chinese",
+                "投資 (tōshi) - Japanese",
+                "투자 (tuja) - Korean",
+                "投資 (tau-ji) - Cantonese",
+                "投資 (tô͘-chu) - Taiwanese Hokkien",
+                "投资 (diu-zi) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "kinh doanh",
+            "id": "70",
+            "pronunciation": [
+                "kinh doanh"
+            ],
+            "definition": [
+                "business"
+            ],
+            "translations": [
+                "生意 (shēngyì) - Chinese",
+                "ビジネス (bijinesu) - Japanese",
+                "사업 (saeob) - Korean",
+                "生意 (saang-yi) - Cantonese",
+                "生意 (siān-gī) - Taiwanese Hokkien",
+                "生意 (zang-yi) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "tiếp thị",
+            "id": "71",
+            "pronunciation": [
+                "tiếp thị"
+            ],
+            "definition": [
+                "marketing"
+            ],
+            "translations": [
+                "市场营销 (shìchǎng yíngxiāo) - Chinese",
+                "マーケティング (māketingu) - Japanese",
+                "마케팅 (maketing) - Korean",
+                "市場營銷 (si-jŏeng-jau) - Cantonese",
+                "市場行銷 (chhî-chiún hâng-siau) - Taiwanese Hokkien",
+                "市场业内 (zhi-chong-gion-nio) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "hợp đồng",
+            "id": "72",
+            "pronunciation": [
+                "hợp đồng"
+            ],
+            "definition": [
+                "contract"
+            ],
+            "translations": [
+                "合同 (hétóng) - Chinese",
+                "契約 (keiyaku) - Japanese",
+                "계약 (gyeyag) - Korean",
+                "合同 (hap-tung) - Cantonese",
+                "合約 (ha̍p-iàk) - Taiwanese Hokkien",
+                "合同 (hop-tong) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "phân phối",
+            "id": "73",
+            "pronunciation": [
+                "phân phối"
+            ],
+            "definition": [
+                "distribution"
+            ],
+            "translations": [
+                "分配 (fēnpèi) - Chinese",
+                "配分 (haibun) - Japanese",
+                "배분 (baebun) - Korean",
+                "分配 (fan-paai) - Cantonese",
+                "分配 (hun-puē) - Taiwanese Hokkien",
+                "分配 (fem-pui) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "khách hàng",
+            "id": "74",
+            "pronunciation": [
+                "khách hàng"
+            ],
+            "definition": [
+                "customer"
+            ],
+            "translations": [
+                "客户 (kèhù) - Chinese",
+                "顧客 (kokyaku) - Japanese",
+                "고객 (gogaeg) - Korean",
+                "客戶 (haak-woo) - Cantonese",
+                "客戶 (kheh-hō͘) - Taiwanese Hokkien",
+                "客户 (keh-hu) - Shanghainese"
+            ]
+        },
+        {
+            "sinogram": "chuyên gia",
+            "id": "75",
+            "pronunciation": [
+                "chuyên gia"
+            ],
+            "definition": [
+                "expert"
+            ],
+            "translations": [
+                "专家 (zhuānjiā) - Chinese",
+                "専門家 (senmonka) - Japanese",
+                "전문가 (jeonmunga) - Korean",
+                "專家 (zyun-gaa) - Cantonese",
+                "專家 (choan-ka) - Taiwanese Hokkien",
+                "专家 (zv-gee) - Shanghainese"
+            ]
+        }
+    ]
+}

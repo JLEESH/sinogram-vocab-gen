@@ -1,0 +1,214 @@
+{
+    "wordlist": [
+        {
+            "word": "文化",
+            "id": "1",
+            "alternative_forms": [
+                "văn hóa"
+            ],
+            "pronunciation": [
+                "văn hóa"
+            ],
+            "definition": [
+                "culture"
+            ],
+            "translations": [
+                "文化 (wén huà) - Chinese",
+                "文化 (bunka) - Japanese",
+                "문화 (munhwa) - Korean",
+                "文化 (manfa) - Cantonese",
+                "文化 (bûn-hòa) - Taiwanese Hokkien",
+                "文化 (wen-hua) - Shanghainese"
+            ]
+        },
+        {
+            "word": "教育",
+            "id": "2",
+            "alternative_forms": [
+                "giáo dục"
+            ],
+            "pronunciation": [
+                "giáo dục"
+            ],
+            "definition": [
+                "education"
+            ],
+            "translations": [
+                "教育 (jiào yù) - Chinese",
+                "教育 (kyō-iku) - Japanese",
+                "교육 (gyo-yuk) - Korean",
+                "教育 (gaau-yuk) - Cantonese",
+                "教育 (kàu-io̍k) - Taiwanese Hokkien",
+                "教育 (jiao-yu) - Shanghainese"
+            ]
+        },
+        {
+            "word": "思考",
+            "id": "3",
+            "alternative_forms": [
+                "suy nghĩ"
+            ],
+            "pronunciation": [
+                "suy nghĩ"
+            ],
+            "definition": [
+                "thinking"
+            ],
+            "translations": [
+                "思考 (sī kǎo) - Chinese",
+                "思考 (shikō) - Japanese",
+                "사고 (sago) - Korean",
+                "思考 (si1 kao3) - Cantonese",
+                "思考 (sī-khó) - Taiwanese Hokkien",
+                "思考 (sī-khǎo) - Shanghainese"
+            ]
+        },
+        {
+            "word": "逻辑",
+            "id": "4",
+            "alternative_forms": [
+                "logic"
+            ],
+            "pronunciation": [
+                "lôgic"
+            ],
+            "definition": [
+                "logic"
+            ],
+            "translations": [
+                "逻辑 (luó ji) - Chinese",
+                "論理 (ronri) - Japanese",
+                "논리 (nonri) - Korean",
+                "邏輯 (lo4 zik1) - Cantonese",
+                "邏輯 (lô-gia̍p) - Taiwanese Hokkien",
+                "逻辑 (luó-jí) - Shanghainese"
+            ]
+        },
+        {
+            "word": "管理",
+            "id": "5",
+            "alternative_forms": [
+                "quản lý"
+            ],
+            "pronunciation": [
+                "quản lý"
+            ],
+            "definition": [
+                "management"
+            ],
+            "translations": [
+                "管理 (guǎn lǐ) - Chinese",
+                "管理 (kanri) - Japanese",
+                "관리 (gwanri) - Korean",
+                "管理 (gun2 lei4) - Cantonese",
+                "管理 (kán-lí) - Taiwanese Hokkien",
+                "管理 (guǎn-lǐ) - Shanghainese"
+            ]
+        },
+        {
+            "word": "经济",
+            "id": "6",
+            "alternative_forms": [
+                "kinh tế"
+            ],
+            "pronunciation": [
+                "kinh tế"
+            ],
+            "definition": [
+                "economy"
+            ],
+            "translations": [
+                "经济 (jīng jì) - Chinese",
+                "経済 (keizai) - Japanese",
+                "경제 (gyeongje) - Korean",
+                "經濟 (ging1 zai3) - Cantonese",
+                "經濟 (king-tsè) - Taiwanese Hokkien",
+                "经济 (jīng-jì) - Shanghainese"
+            ]
+        },
+        {
+            "word": "信息",
+            "id": "7",
+            "alternative_forms": [
+                "thông tin"
+            ],
+            "pronunciation": [
+                "thông tin"
+            ],
+            "definition": [
+                "information"
+            ],
+            "translations": [
+                "信息 (xìn xī) - Chinese",
+                "情報 (jōhō) - Japanese",
+                "정보 (jeongbo) - Korean",
+                "資訊 (zi1 seon3) - Cantonese",
+                "資訊 (tsūn-sìn) - Taiwanese Hokkien",
+                "信息 (xìn-xī) - Shanghainese"
+            ]
+        },
+        {
+            "word": "科学",
+            "id": "8",
+            "alternative_forms": [
+                "khoa học"
+            ],
+            "pronunciation": [
+                "khoa học"
+            ],
+            "definition": [
+                "science"
+            ],
+            "translations": [
+                "科学 (kē xué) - Chinese",
+                "科学 (kagaku) - Japanese",
+                "과학 (gwahak) - Korean",
+                "科學 (fo1 hok6) - Cantonese",
+                "科學 (kho-ha̍k) - Taiwanese Hokkien",
+                "科学 (kē-xué) - Shanghainese"
+            ]
+        },
+        {
+            "word": "关系",
+            "id": "9",
+            "alternative_forms": [
+                "mối quan hệ"
+            ],
+            "pronunciation": [
+                "mối quan hệ"
+            ],
+            "definition": [
+                "relationship"
+            ],
+            "translations": [
+                "关系 (guān xì) - Chinese",
+                "関係 (kankei) - Japanese",
+                "관계 (gwangye) - Korean",
+                "關係 (gwan1 hai6) - Cantonese",
+                "關係 (kuan-hè) - Taiwanese Hokkien",
+                "关系 (guān-xì) - Shanghainese"
+            ]
+        },
+        {
+            "word": "实践",
+            "id": "10",
+            "alternative_forms": [
+                "thực hành"
+            ],
+            "pronunciation": [
+                "thực hành"
+            ],
+            "definition": [
+                "practice"
+            ],
+            "translations": [
+                "实践 (shí jiàn) - Chinese",
+                "実践 (jitsugen) - Japanese",
+                "실천 (silcheon) - Korean",
+                "實踐 (sat6 cin2) - Cantonese",
+                "實踐 (si̍t-chiàn) - Taiwanese Hokkien",
+                "实践 (shí-jiàn) - Shanghainese"
+            ]
+        }
+    ]
+}

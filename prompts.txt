@@ -1,0 +1,53 @@
+// some commands one could run
+python3.12 oapi.py -gt "Please provide a wordlist for Sino-Vietnamese words. Select common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level."
+
+// ext-1
+python3.12 oapi.py -gt "Please provide a wordlist for Sino-Vietnamese words. Select common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level. Leave out the following words: lý luận, văn hóa, khoa học, kỹ thuật, giáo dục, hiện đại, kinh tế, chính trị, tâm lý, xã hội, lịch sử"
+
+
+// ext-2
+python3.12 oapi.py -gt "Please provide a wordlist for Sino-Vietnamese words. Select common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level. Leave out the following words: lý luận, văn hóa, khoa học, kỹ thuật, giáo dục, hiện đại, kinh tế, chính trị, tâm lý, xã hội, lịch sử, đại học, nghiên cứu, phát triển, tư duy, thực hành, nguyên tắc, chiến lược, tổng hợp, chuyên môn, diễn giả"
+
+// ext-3 + specify languages
+python3.12 oapi.py -gt "Please provide a wordlist for Sino-Vietnamese words. Select common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level. Provide the sinogram readings for Chinese, Korean, Japanese, Cantonese, Taiwanese Hokkien and Shanghainese. Leave out the following words: lý luận, văn hóa, khoa học, kỹ thuật, giáo dục, hiện đại, kinh tế, chính trị, tâm lý, xã hội, lịch sử, đại học, nghiên cứu, phát triển, tư duy, thực hành, nguyên tắc, chiến lược, tổng hợp, chuyên môn, diễn giả, nghệ thuật, nguyên liệu, hệ thống, công nghệ, tiềm năng, đổi mới, khả năng, tính toán, quy hoạch, phát huy"
+
+// ext-3 + specify languages + specify length (+no save response)
+python3.12 oapi.py -t "Please provide a wordlist for Sino-Vietnamese words. Select common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level. Provide the sinogram readings for Chinese, Korean, Japanese, Cantonese, Taiwanese Hokkien and Shanghainese. Include at least 10 words. Leave out the following words: lý luận, văn hóa, khoa học, kỹ thuật, giáo dục, hiện đại, kinh tế, chính trị, tâm lý, xã hội, lịch sử, đại học, nghiên cứu, phát triển, tư duy, thực hành, nguyên tắc, chiến lược, tổng hợp, chuyên môn, diễn giả, nghệ thuật, nguyên liệu, hệ thống, công nghệ, tiềm năng, đổi mới, khả năng, tính toán, quy hoạch, phát huy"
+
+
+
+    ```json
+        {
+            "word": "文化",
+            "id": "1",
+            "alternative_forms": [
+                "văn hóa"
+            ],
+            "pronunciation": [
+                "văn hóa"
+            ],
+            "definition": [
+                "culture"
+            ],
+            "translations": [
+                "文化 (wén-huà) - Chinese",
+                "文化 (bun-ka) - Japanese",
+                "문화 (mun-hwa) - Korean",
+                // <Readings or translations in Cantonese, Taiwanese Hokkien and Shanghainese>
+            ]
+        }
+    ```
+
+
+// v0.2
+python3.12 oapi.py -t "Please provide a wordlist for Sino-Vietnamese words. Select common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level. Provide the sinogram readings for Chinese, Korean, Japanese, Cantonese, Taiwanese Hokkien and Shanghainese. Include at least 10 words.\n\nLeave out the following words: lý luận, văn hóa, khoa học, kỹ thuật, giáo dục, hiện đại, kinh tế, chính trị, tâm lý, xã hội, lịch sử, đại học, nghiên cứu, phát triển, tư duy, thực hành, nguyên tắc, chiến lược, tổng hợp, chuyên môn, diễn giả, nghệ thuật, nguyên liệu, hệ thống, công nghệ, tiềm năng, đổi mới, khả năng, tính toán, quy hoạch, phát huy, triết học, nhân, quốc, thời gian, học tập, tri thức"
+
+
+//v0.2.1
+python3.12 oapi.py -t "Please provide a wordlist for Sino-Vietnamese words. Select common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level. Provide the sinogram readings for Chinese, Korean, Japanese, Cantonese, Taiwanese Hokkien and Shanghainese. Include at least 10 words.\n\nLeave out the following words: lý luận, văn hóa, khoa học, kỹ thuật, giáo dục, hiện đại, kinh tế, chính trị, tâm lý, xã hội, lịch sử, đại học, nghiên cứu, phát triển, tư duy, thực hành, nguyên tắc, chiến lược, tổng hợp, chuyên môn, diễn giả, nghệ thuật, nguyên liệu, hệ thống, công nghệ, tiềm năng, đổi mới, khả năng, tính toán, quy hoạch, phát huy, triết học, nhân, quốc, thời gian, học tập, tri thức, suy nghĩ, lôgic, quản lý, thông tin, khoa học, mối quan hệ, thực hành"
+
+//v0.3.0.1 (added Vietnamese to the list)
+python3.12 oapi.py -t "Please create a wordlist for Sino-Vietnamese words. These are common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level. Provide the sinogram readings for Chinese, Vietnamese, Korean, Japanese, Cantonese, Taiwanese Hokkien and Shanghainese. Generate entries for at least 250 words. Absolutely include all the following words and avoid repetitions: lý luận, văn hóa, khoa học, kỹ thuật, giáo dục, hiện đại, kinh tế, chính trị, tâm lý, xã hội, lịch sử, đại học, nghiên cứu, phát triển, tư duy, thực hành, nguyên tắc, chiến lược, tổng hợp, chuyên môn, diễn giả, nghệ thuật, nguyên liệu, hệ thống, công nghệ, tiềm năng, đổi mới, khả năng, tính toán, quy hoạch, phát huy, triết học, nhân, quốc, thời gian, học tập, tri thức, suy nghĩ, lôgic, quản lý, thông tin, khoa học, mối quan hệ, thực hành, thương nghiệp, ngoại giao, kế hoạch, sức mạnh, lựa chọn, nguyên nhân, tin tưởng"
+
+//v0.3.1
+python3.12 oapi.py -t "Please create a wordlist for Sino-Vietnamese words. These are common words from a variety of contexts that can be helpful for those who already know Chinese, English, Korean and Japanese in learning Vietnamese at an intermediate to advanced level. Provide the sinogram readings for Chinese, Vietnamese, Korean, Japanese, Cantonese, Taiwanese Hokkien and Shanghainese.\n\nGenerate entries for **at least 250 words**. **Absolutely include all the following words** and avoid repetitions: lý luận, văn hóa, khoa học, kỹ thuật, giáo dục, hiện đại, kinh tế, chính trị, tâm lý, xã hội, lịch sử, đại học, nghiên cứu, phát triển, tư duy, thực hành, nguyên tắc, chiến lược, tổng hợp, chuyên môn, diễn giả, nghệ thuật, nguyên liệu, hệ thống, công nghệ, tiềm năng, đổi mới, khả năng, tính toán, quy hoạch, phát huy, triết học, nhân, quốc, thời gian, học tập, tri thức, suy nghĩ, lôgic, quản lý, thông tin, khoa học, mối quan hệ, thực hành, thương nghiệp, ngoại giao, kế hoạch, sức mạnh, lựa chọn, nguyên nhân, tin tưởng.\n\nREMEMBER TO GENERATE AT LEAST 250 WORDS."

@@ -1,0 +1,197 @@
+{
+    "wordlist": [
+        {
+            "word": "đại học",
+            "id": "1",
+            "alternative_forms": [
+                "Đại học"
+            ],
+            "pronunciation": [
+                "ʔɨː haːk"
+            ],
+            "definition": [
+                "university",
+                "higher education institution"
+            ],
+            "translations": [
+                "大学 (Dàxué)",
+                "대학교 (Daehak)",
+                "大学 (Daigaku)"
+            ]
+        },
+        {
+            "word": "nghiên cứu",
+            "id": "2",
+            "alternative_forms": [
+                "Nghiên cứu"
+            ],
+            "pronunciation": [
+                "ŋiːən kɨː"
+            ],
+            "definition": [
+                "to research",
+                "research"
+            ],
+            "translations": [
+                "研究 (Yánjiū)",
+                "연구 (Yeongu)",
+                "研究 (Kenkyū)"
+            ]
+        },
+        {
+            "word": "phát triển",
+            "id": "3",
+            "alternative_forms": [
+                "Phát triển"
+            ],
+            "pronunciation": [
+                "faːt tɕiəŋ"
+            ],
+            "definition": [
+                "to develop",
+                "development"
+            ],
+            "translations": [
+                "发展 (Fāzhǎn)",
+                "발전 (Baljeon)",
+                "発展 (Hatten)"
+            ]
+        },
+        {
+            "word": "tư duy",
+            "id": "4",
+            "alternative_forms": [
+                "Tư duy"
+            ],
+            "pronunciation": [
+                "tɨː zwi"
+            ],
+            "definition": [
+                "to think",
+                "thinking",
+                "thought"
+            ],
+            "translations": [
+                "思维 (Sīwéi)",
+                "사고 (Sago)",
+                "思考 (Shikō)"
+            ]
+        },
+        {
+            "word": "thực hành",
+            "id": "5",
+            "alternative_forms": [
+                "Thực hành"
+            ],
+            "pronunciation": [
+                "tʰɨk hãɲ"
+            ],
+            "definition": [
+                "to practice",
+                "practice",
+                "practical"
+            ],
+            "translations": [
+                "实践 (Shíjiàn)",
+                "실습 (Silsup)",
+                "実践 (Jissen)"
+            ]
+        },
+        {
+            "word": "nguyên tắc",
+            "id": "6",
+            "alternative_forms": [
+                "Nguyên tắc"
+            ],
+            "pronunciation": [
+                "ŋwiən tʰak"
+            ],
+            "definition": [
+                "principle",
+                "rule"
+            ],
+            "translations": [
+                "原则 (Yuánzé)",
+                "원칙 (Wonchik)",
+                "原則 (Gensoku)"
+            ]
+        },
+        {
+            "word": "chiến lược",
+            "id": "7",
+            "alternative_forms": [
+                "Chiến lược"
+            ],
+            "pronunciation": [
+                "tʃiən lɨəɡ"
+            ],
+            "definition": [
+                "strategy",
+                "planning"
+            ],
+            "translations": [
+                "战略 (Zhànlüè)",
+                "전략 (Jeollyak)",
+                "戦略 (Senryaku)"
+            ]
+        },
+        {
+            "word": "tổng hợp",
+            "id": "8",
+            "alternative_forms": [
+                "Tổng hợp"
+            ],
+            "pronunciation": [
+                "tɔŋ hɨəp"
+            ],
+            "definition": [
+                "to compile",
+                "to synthesize",
+                "comprehensive"
+            ],
+            "translations": [
+                "综合 (Zōnghé)",
+                "종합 (Jonghap)",
+                "総合 (Sōgō)"
+            ]
+        },
+        {
+            "word": "chuyên môn",
+            "id": "9",
+            "alternative_forms": [
+                "Chuyên môn"
+            ],
+            "pronunciation": [
+                "tɕwɛn mɔn"
+            ],
+            "definition": [
+                "specialization",
+                "expertise"
+            ],
+            "translations": [
+                "专业 (Zhuānyè)",
+                "전문 (Jeonmun)",
+                "専門 (Senmon)"
+            ]
+        },
+        {
+            "word": "diễn giả",
+            "id": "10",
+            "alternative_forms": [
+                "Diễn giả"
+            ],
+            "pronunciation": [
+                "ziən zʲaː"
+            ],
+            "definition": [
+                "lecturer",
+                "speaker"
+            ],
+            "translations": [
+                "演讲者 (Yǎnjiǎngzhě)",
+                "강사 (Gangsa)",
+                "講演者 (Kōen-sha)"
+            ]
+        }
+    ]
+}
